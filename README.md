@@ -1,5 +1,5 @@
 # Dalle-clone
 
 <img
-src="/img.jpg"
+src="/img.png"
 >
